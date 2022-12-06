@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#Navbar {
+    border: solid 1px ;
+    background-color: darkseagreen;
+}
+li {
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+}
+#listacl {
+    text-align: center  ;
+    padding: 2%;
+}
+
+#table1 {
+    margin: auto;
+    border: solid black 2px;
+    width: auto;
+    border-collapse: collapse;
+}
+
+th {
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+td {
+    padding-top: 10px;
+    display: inline-block;
+    
+  
+}
+
+table, tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+a {
+    text-decoration: none;
+}
